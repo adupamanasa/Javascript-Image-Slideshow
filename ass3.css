@@ -1,0 +1,15 @@
+h2 {
+    text-align: center;
+}
+.slideshow{
+    text-align: center;
+}
+.buttons{
+   text-align: center; 
+}
+.mySlides{
+    border:1px solid #021a40;
+}
+body {
+    background-color: lightblue;
+}
